@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nabook/static/css/main.9f7d5c60.css",
-    "main.js": "/nabook/static/js/main.d5e25931.js",
+    "main.js": "/nabook/static/js/main.9aa1e8b1.js",
     "static/js/787.3529b0ad.chunk.js": "/nabook/static/js/787.3529b0ad.chunk.js",
     "static/media/ads3.png": "/nabook/static/media/ads3.2131f587913a1e1fce21.png",
     "static/media/ads1.jpg": "/nabook/static/media/ads1.f1ff9a4990b9b316e426.jpg",
@@ -14,11 +14,11 @@
     "static/media/slick.woff": "/nabook/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nabook/index.html",
     "main.9f7d5c60.css.map": "/nabook/static/css/main.9f7d5c60.css.map",
-    "main.d5e25931.js.map": "/nabook/static/js/main.d5e25931.js.map",
+    "main.9aa1e8b1.js.map": "/nabook/static/js/main.9aa1e8b1.js.map",
     "787.3529b0ad.chunk.js.map": "/nabook/static/js/787.3529b0ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f7d5c60.css",
-    "static/js/main.d5e25931.js"
+    "static/js/main.9aa1e8b1.js"
   ]
 }
