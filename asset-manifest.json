@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nabook/static/css/main.9f7d5c60.css",
+    "main.js": "/nabook/static/js/main.998e4e23.js",
+    "static/js/787.3529b0ad.chunk.js": "/nabook/static/js/787.3529b0ad.chunk.js",
+    "static/media/ads3.png": "/nabook/static/media/ads3.2131f587913a1e1fce21.png",
+    "static/media/ads1.jpg": "/nabook/static/media/ads1.f1ff9a4990b9b316e426.jpg",
+    "static/media/ads2.jpg": "/nabook/static/media/ads2.aea677ebac5fb4a39f05.jpg",
+    "static/media/ads4.jpg": "/nabook/static/media/ads4.8d4a0caf4331b42e24f1.jpg",
+    "static/media/myLogo.png": "/nabook/static/media/myLogo.1817629d8738fbfda029.png",
+    "static/media/slick.svg": "/nabook/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nabook/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nabook/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nabook/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/nabook/index.html",
+    "main.9f7d5c60.css.map": "/nabook/static/css/main.9f7d5c60.css.map",
+    "main.998e4e23.js.map": "/nabook/static/js/main.998e4e23.js.map",
+    "787.3529b0ad.chunk.js.map": "/nabook/static/js/787.3529b0ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f7d5c60.css",
+    "static/js/main.998e4e23.js"
+  ]
+}
